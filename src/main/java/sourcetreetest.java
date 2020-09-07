@@ -6,6 +6,10 @@ public class sourcetreetest {
 
 		// Comment added for Step into IT branch
 		
+		//Commenting for stash
+		
+		//ABCDEFGHI
+		
 	}
 
 }
